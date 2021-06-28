@@ -24,3 +24,4 @@ How do I reach you?
 [discord]: https://discord.gg/hUEzEyPDs3
 [instagram]: https://www.instagram.com/macius.php/
 [twitch]: https://www.twitch.tv/macius1881
+[mail]: mailto:samethubofficial@gmail.com
